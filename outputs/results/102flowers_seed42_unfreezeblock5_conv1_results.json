@@ -1,7 +1,0 @@
-{
-  "seed": 42,
-  "unfreeze_from": "block5_conv1",
-  "test_loss": 0.4073079824447632,
-  "test_acc": 0.8999999761581421,
-  "best_model_path": "ckpt_path"
-}

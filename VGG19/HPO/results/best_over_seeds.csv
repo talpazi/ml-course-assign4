@@ -1,0 +1,3 @@
+seed,unfreeze_from,dropout,best_val_loss,best_val_acc,test_loss,test_acc,history_path
+42,block5_conv1,0.2,0.53954017162323,0.908646821975708,0.587830662727356,0.89697265625,HPO/history/seed42_unfreezeblock5_conv1_drop0.2.json
+123,block5_conv1,0.2,0.5593525171279907,0.8900830745697021,0.5437330007553101,0.89013671875,HPO/history/seed123_unfreezeblock5_conv1_drop0.2.json

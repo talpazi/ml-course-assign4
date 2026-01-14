@@ -1,0 +1,2 @@
+unfreeze_from,dropout,best_val_acc_mean,best_val_acc_std,best_val_loss_mean,best_val_loss_std,test_acc_mean,test_acc_std,test_loss_mean,test_loss_std
+block5_conv1,0.2,0.8994,0.0131,0.5494,0.014,0.8936,0.0048,0.5658,0.0312

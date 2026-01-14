@@ -19,7 +19,7 @@ This repository contains the solution for **Assignment 4**,.
 ## Repository Structure
 
 ml-course-assign4\
-├── main.ipynb # Main notebook ...\
+├──  # FLODER... ...\
 ├── README.md # Project description and repository structure\
 
 ## Notes

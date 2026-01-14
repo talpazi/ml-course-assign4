@@ -1,0 +1,3 @@
+seed,unfreeze_from,dropout,epochs_head,epochs_finetune,total_epochs,final_train_loss,final_train_acc,final_test_loss,final_test_acc,history_path,model_path
+42,block5_conv1,0.2,10,10,20,0.0741748958826065,0.9894154071807861,0.20310814678668976,0.93994140625,outputs/history/final_seed42_unfreezeblock5_conv1_drop0.2.json,outputs/models/final_seed42_unfreezeblock5_conv1_drop0.2.keras
+123,block5_conv1,0.2,10,10,20,0.07585420459508896,0.9869728088378906,0.25638604164123535,0.9267578125,outputs/history/final_seed123_unfreezeblock5_conv1_drop0.2.json,outputs/models/final_seed123_unfreezeblock5_conv1_drop0.2.keras
