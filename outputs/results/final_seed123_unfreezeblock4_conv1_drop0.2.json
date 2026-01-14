@@ -1,0 +1,14 @@
+{
+  "seed": 123,
+  "unfreeze_from": "block4_conv1",
+  "dropout": 0.2,
+  "epochs_head": 1,
+  "epochs_finetune": 1,
+  "total_epochs": 2,
+  "final_train_loss": 1.8361477851867676,
+  "final_train_acc": 0.6280736327171326,
+  "final_test_loss": 1.1230138540267944,
+  "final_test_acc": 0.72607421875,
+  "history_path": "outputs/history/final_seed123_unfreezeblock4_conv1_drop0.2.json",
+  "model_path": "outputs/models/final_seed123_unfreezeblock4_conv1_drop0.2.keras"
+}

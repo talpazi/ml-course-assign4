@@ -1,4 +1,4 @@
-# Assignment 3 – ML Course
+# Assignment 4 – ML Course
 
 Students:\
 Shir Nehoray 209544352\
@@ -11,13 +11,7 @@ https://github.com/talpazi/ml-course-assign3
 
 ## Repository Description
 
-This repository contains the solution for **Assignment 3**, which extends the original Chapter 11 implementation from *Machine Learning with PyTorch and Scikit-Learn* (Raschka et al., 2022) by adding a second hidden layer and evaluating the model on the MNIST dataset.
-
-The project includes three implementations:
-1. Original single-hidden-layer ANN (baseline from the book)
-2. Revised two-hidden-layer ANN implemented from scratch using NumPy (with softmax output)
-3. Equivalent two-hidden-layer ANN implemented using Keras (TensorFlow)
-
+This repository contains the solution for **Assignment 4**.
 ---
 
 ## Repository Structure
