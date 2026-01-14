@@ -4,3 +4,7 @@ HPO/models/best_seed42.keras
 outputs/models/best_102flowers_seed42_unfreezeblock5_conv1.keras
 outputs/models/final_seed123_unfreezeblock4_conv1_drop0.2.keras
 outputs/models/final_seed42_unfreezeblock4_conv1_drop0.2.keras
+VGG19/outputs/models/final_seed42_unfreezeblock5_conv1_drop0.2.keras
+VGG19/HPO/models/best_seed123.keras
+VGG19/HPO/models/best_seed42.keras
+VGG19/outputs/models/final_seed123_unfreezeblock5_conv1_drop0.2.keras
