@@ -1,0 +1,10 @@
+seed,unfreeze_from,dropout,best_val_loss,best_val_acc,test_loss,test_acc,history_path
+123,layer9,0.2,1.6771069765090942,0.6223741769790649,1.7167795896530151,0.611328125,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezelayer9_drop0.2.json
+123,frozen,0.2,1.686449646949768,0.6272594332695007,1.72611665725708,0.615234375,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezefrozen_drop0.2.json
+123,layer6,0.2,1.6979807615280151,0.6189545392990112,1.7301278114318848,0.609375,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezelayer6_drop0.2.json
+123,layer9,0.4,2.116328716278076,0.5471421480178833,2.142408609390259,0.537109375,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezelayer9_drop0.4.json
+123,layer6,0.4,2.1801583766937256,0.5236932039260864,2.196735143661499,0.5087890625,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezelayer6_drop0.4.json
+123,frozen,0.4,2.202871561050415,0.5192965269088745,2.2056593894958496,0.51806640625,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezefrozen_drop0.4.json
+123,frozen,0.6,2.920640230178833,0.40742549300193787,2.9350905418395996,0.40673828125,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezefrozen_drop0.6.json
+123,layer9,0.6,2.925827741622925,0.40254029631614685,2.9376308917999268,0.390625,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezelayer9_drop0.6.json
+123,layer6,0.6,2.947938919067383,0.39570102095603943,2.968295097351074,0.38916015625,/Users/itamartalpaz/GitHub/ml-course-assign4/HPO/history/seed123_unfreezelayer6_drop0.6.json
