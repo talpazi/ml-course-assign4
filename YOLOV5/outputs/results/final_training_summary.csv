@@ -1,3 +1,3 @@
-seed,unfreeze_from,dropout,test_loss,test_acc,total_epochs,final_train_acc,final_test_acc
-42,6,0.2,0.9043466448783875,0.751953125,20,0.780817449092865,0.751953125
-123,6,0.2,0.8663857579231262,0.759765625,20,0.7778863310813904,0.759765625
+seed,unfreeze_from,dropout,test_loss,test_acc,final_train_loss,final_test_loss,total_epochs,final_train_acc,final_test_acc,history_path
+42,6,0.2,0.9069679975509644,0.7529296875,0.8058474063873291,0.9069679975509644,20,0.7845627665519714,0.7529296875,/Users/itamartalpaz/GitHub/ml-course-assign4/YOLOV5/outputs/history/final_seed42_unfreezelayer6_drop0.2.json
+123,6,0.2,0.8573140501976013,0.7646484375,0.8118715286254883,0.8573140501976013,20,0.7743038535118103,0.7646484375,/Users/itamartalpaz/GitHub/ml-course-assign4/YOLOV5/outputs/history/final_seed123_unfreezelayer6_drop0.2.json
